@@ -7,7 +7,7 @@ We can sort out how to do the final document for submission at some point later.
 ### Instructions
 
 <ol>
-  <li>Click 'Add File' and create a Name.MD file
+  <li>Click 'Add File' and create a Name.md file
     <ul>
       <li>This will be your personal document that you can mess around with. Nobody else will edit it.</li>
     </ul>
@@ -18,7 +18,7 @@ We can sort out how to do the final document for submission at some point later.
       <li>Guide to styling .md files if interested: https://www.markdownguide.org/basic-syntax/</li>
     </ul>
   </li>
-  <li>When you've updated your file, comit directly to master or make a pull request.
+  <li>When you've updated your file, comit directly to master or make a branch and a pull request.
     <ul>
       <li>GitHub guides you through this process</li>
     </ul>
