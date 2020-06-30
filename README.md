@@ -7,7 +7,7 @@ We can sort out how to do the final document for submission at some point later.
 ### Instructions
 
 <ol>
-  <li>Click 'Add File' and create a Name.md file
+  <li>Click 'Add File' > 'Create New File' and create a Name.md file
     <ul>
       <li>This will be your personal document that you can mess around with. Nobody else will edit it.</li>
     </ul>
