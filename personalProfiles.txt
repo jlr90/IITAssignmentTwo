@@ -45,3 +45,14 @@ enjoy catching up with friends over a drink in the city, and traveling within Au
  and internationally. I have limited experience in IT, but have basic knowledge of SQL, 
  HTML, CSS and using the Adobe Creative Suite products. I’m looking forward to learning 
  more about Artificial Intelligence and Machine Learning, and software development. 
+
+
+
+Name: John Ross
+Student Number: s3476963
+Email: s3476963@student.rmit.edu.au
+
+Hi, my name is John and I’m from Melbourne, Victoria. I have a background in Economics and currently work as a Web Developer.
+I really enjoy the UI/UX design aspect of building websites. I focus on front-end development, so I am particularly confident in my JavaScript and CSS skills.
+The IT world is vast, and I am looking forward to exploring other fields such as machine learning and robotics.
+In my free time I enjoy playing guitar in a rock band with friends and hitting the golf course on a sunny day. 
