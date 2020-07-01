@@ -1,0 +1,47 @@
+Personal Profiles 
+
+Name: Samuel Hopkins
+Student Number: s3864355
+Email: s3864355@student.rmit.edu.au
+
+Hi My name is Sam. I am 29 and live in Brisbane. I love camping and exploring 
+the less touched places of Australia. My interest in IT has mainly been through 
+gaming, however coding interests me a lot. I have no formal education in IT, however,
+ I have completed a few online introductory courses on JavaScript and HTML/CSS. 
+
+
+
+
+Name: Helen Nowlan
+Student Number: s3866210
+Email: s3866210@student.rmit.edu.au 
+
+My name is Helen.  I am 45 and live in Perth Western Australia.  
+
+
+
+
+Name: Ben Matthews
+Student Number s3851558
+Email: s3851558@student.rmit.edu.au
+
+Hello! My name is Ben, I’m from Perth. I’m a gamer and a musician, and love learning 
+about all sorts of new things, especially in the realms of movement 
+(parkour, martial arts), philosophy, music, psychology and now, all things IT.  
+I love exploring the world around us, and so exploring this digital age and how 
+we interact with it is right up my alley.  I’m fairly fresh to the field of IT, 
+but have had a little experience with HTML and CSS, and have helped to manage and 
+maintain wordpress websites.
+
+
+
+
+Name: Andrew Moroney
+Student Number: s3868254
+Email: s3868254@student.rmit.edu.au
+
+Hi my name is Andrew. I am 26 years old and live in West Gippsland, Victoria. I 
+enjoy catching up with friends over a drink in the city, and traveling within Australia
+ and internationally. I have limited experience in IT, but have basic knowledge of SQL, 
+ HTML, CSS and using the Adobe Creative Suite products. I’m looking forward to learning 
+ more about Artificial Intelligence and Machine Learning, and software development. 
