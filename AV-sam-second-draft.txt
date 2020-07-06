@@ -1,0 +1,54 @@
+﻿Autonomous Vehicles
+
+
+Autonomous vehicles (AV), sometimes referred to as self driving vehicles, are vehicles that are capable of interpreting their surroundings through the use of sensors and making decisions based on those interpretations. There are currently 6 commonly accepted levels of autonomous vehicles ranging from completely driver reliant (0), to completely independent (5)  (What is an Autonomous Car? – How Self-Driving Cars Work | Synopsys, 2020) . Current iterations of self driving cars (Level 2  - see infographic for a complete breakdown of the levels saved as drivingLevels.jpg) use a combination of video capture, radar, and the most recent technological advancement, lidar - however there is contention from Tesla about the necessity of it(Lee, 2020) . The cameras, often set up in stereo to give an accurate depth, are used to detect road signs, traffic lights and traffic lanes, while the radar is used to determine distances of the car in relation to other objects, such as other road users. Lidar is used as a 360 degree camera, and can give a general sense of the shape or an object it detects (Appiah and Bandaru, 2020). 
+
+
+Current levels of automation allows for the car to speed up, slow down, and change lanes. The driver of the vehicle is still in control, and safety measures and precautions are in place to ensure that the driver is monitoring the traffic conditions. These safety conditions are usually  sensors in the steering wheel to make sure the driver is still in contact with it, and cameras that monitor eye position to ensure the driver is paying attention to the road. 
+
+
+The progress from driver reliant, to fully independent now seemingly hinges on AI and machine learning. A driverless car, or a car driving a passenger needs to be able to predict what likely may happen in any scenario. One scenario could be a child on a bike travelling down a footpath, in which humans would anticipate the possibility of the child entering traffic, and drive accordingly. In this scenario the autonomous car needs to be able to identify the child on a bike and distinguish it from say an adult jogging in order to drive accordingly. The good news for autonomous vehicles is that, generally speaking, the more data that is provided, the more accurate it will become (In Machine Learning, What is Better: More Data or better Algorithms - KDnuggets, 2020). Thus, the more the autonomous vehicles are put in increasingly different situations, the more adept they will become at anticipating what may happen. 
+
+
+
+
+The impact that autonomous vehicles will obviously depend on which level of AV, technology, and legislation are up to. Level 3 which still requires a human to be in the driver’s seat, ready to take over, will be less disruptive than the level 5 AV which does not require anyone to be in the car. Level 3 would have little to no impact on society as it is realistically only improving on current technology in cars presently. Level 4 is where things start to get interesting. Level 4 introduces technology that no longer requires that drivers be inside the vehicle. These AV’s, however, will likely be geofenced and will not be allowed to operate autonomously outside a prescribed zone. The primary effects of level 4 will mainly be felt on the transport industry, with no need for drivers within the geofence. If highways are deemed acceptable for AV’s to operate, then trucking companies will no longer need drivers to travel interstate, and could simply employ drivers from a central hub on the border of the geofence, taking over from the AV system when the vehicle reaches the hub. The trucks could also theoretically operate 24/7 as with no driver there is no need for rest.  Secondary effects could be felt on the housing markets, which could see demand for inner city housing diminish due to increased productivity during long commutes (The Unintended Consequences of Self-Driving Cars, 2020), and in turn an increase in property prices in fringe cities such as Ipswich, Newcastle, and Geelong. Level 5 is the major disruptor. The need to own cars has greatly diminished. If you want/need a car, you can order a car now much like an uber, and use it until you no longer require it. There are no longer delivery drivers, truck drivers and virtually any other driving jobs. There is an estimated direct loss of 2.9 million jobs in the US alone ((The Unintended Consequences of Self-Driving Cars, 2020) once AV’s are widely used. This does not take into account people working in car manufacturing and the car insurance industry, which will likely plummet. 
+
+
+Some of the positive effects are less accidents, leading to fewer deaths and dramatically reduced toll on the economy due to damage, less congested roads leading to overall more efficient vehicles and shorter travel times. With a lower cars per person ratio, and overall fewer cars on the road, this will have positive impacts on the environment, with less production of cars, and more efficient travel time dropping greenhouse gas emissions. 
+Overall, the winners as a result of Autonomous Vehicles will be the planet, and big businesses, as profit margins increase, while the number of employees shrinks.
+
+
+From the perspective of a 25-45 year old Australian not tied to the transport industry, the impacts of autonomous vehicles at first will be quite minimal. Perhaps there will be a buyers market emerge in the real estate sector as the prices between regional, satellite cities and major cities evens out somewhat. Until the implementation of level 5 AV’s, one does not see drastic change in the everyday life of a 25-45 year old Australian. When level 5 does get introduced, we will see a remarkable decrease in the price of owner/user cars, as manufacturers try to compete with the use of the fleets of Av’s tied to apps such as uber. For people that work in an office environment, the length of the work day may stay the same but how it is measured may change. While the AV is driving a worker in, they would be able to complete tasks that they normally would in the office and so, the work day may start at 9am, as he or she is leaving the house. 
+
+
+
+
+
+
+
+
+Davies, A., 2020. How Do Self-Driving Cars See? (And How Do They See Me). [online] Wired. Available at: <https://www.wired.com/story/the-know-it-alls-how-do-self-driving-cars-see/> [Accessed 25 June 2020].
+        (Davies, 2020)
+
+
+KDnuggets. 2020. In Machine Learning, What Is Better: More Data Or Better Algorithms - Kdnuggets. [online] Available at: <https://www.kdnuggets.com/2015/06/machine-learning-more-data-better-algorithms.html> [Accessed 6 July 2020].
+
+
+
+
+Engineering.com. 2020. State Of The Art: Autonomous Driving Technology As 2019 Comes To A Close. [online] Available at: <https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/19732/State-of-the-Art-Autonomous-Driving-Technology-as-2019-Comes-to-a-Close.aspx#:~:text=The%20principal%20technology%20enabler%20of,how%20the%20vehicle%20should%20respond.> [Accessed 24 June 2020].
+        (State of the Art: Autonomous Driving Technology as 2019 Comes to a Close, 2020)
+
+
+Investopedia. 2020. The Unintended Consequences Of Self-Driving Cars. [online] Available at: <https://www.investopedia.com/articles/investing/090215/unintended-consequences-selfdriving-cars.asp#:~:text=The%20prospect%20of%20widespread%20use,efficiency%20and%20reduce%20traffic%20congestion.> [Accessed 25 June 2020].
+(The Unintended Consequences of Self-Driving Cars, 2020)
+        
+Synopsys.com. 2020. What Is An Autonomous Car? – How Self-Driving Cars Work | Synopsys. [online] Available at: <https://www.synopsys.com/automotive/what-is-autonomous-car.html> [Accessed 24 June 2020].
+        (What is an Autonomous Car? – How Self-Driving Cars Work | Synopsys, 2020)
+
+
+Appiah, N. and Bandaru, N., 2020. Obstacle Detection Using Stereo Vision For Self-Driving Cars. [online] Web.stanford.edu. Available at: <https://web.stanford.edu/class/ee368/Project_Autumn_1516/Reports/Appiah_Bandaru.pdf> [Accessed 6 July 2020].
+
+
+Lee, T., 2020. Elon Musk: “Anyone Relying On Lidar Is Doomed.” Experts: Maybe Not. [online] Ars Technica. Available at: <https://arstechnica.com/cars/2019/08/elon-musk-says-driverless-cars-dont-need-lidar-experts-arent-so-sure/> [Accessed 6 July 2020].
