@@ -198,4 +198,65 @@ While all roles require some form of technical expertise with coding, the motiva
 The graph below shows a number of things:
 All of our jobs require some front end programming knowledge, whereas only a few of them require back end coding knowledge. It shows that some people are looking to have a wide and diverse skill set whereas others are more interested in honing their knowledge in a particular field. It shows that all of these jobs require some expertise with coding, but only one of them specifically requires an understanding of networking and security.
 
-Burning Man Data
+
+
+Burning Man Data - // Messy, incomplete thoughts below. Still adding and refining. Very draft.
+
+
+Summary thoughts:
+Very few of us were interested in security, networking, systems admin or testing. While some of us were interested in creative web app development, only one of the team member’s ideal jobs explicitly mentioned graphic design.  
+
+
+IT Skills:
+
+Interesting things of note:
+UX designers are not in demand but graphics designers are...
+General “Developer” and “Full Stack Developer” positions are note as in demand as Front End Developers
+Back and development seems to be more in demand - Java, .NET
+Of course, senior positions are less in demand.  
+
+Will make a graph outlining our collective skill set against the burning man data.
+
+IT Skills that we cover:
+Strong: .NET, JavaScript, SQL
+
+Business Management
+Project Management
+
+
+General Skills that we cover:
+
+Interesting things of note:
+The demand for communications skills alone nearly amounts to the next top three in demand general skills. However, being “Articulate” is the third least demanded skill set.  This leads me to believe that the graphs provided by which we measure our team’s viability and collective skill set value, is ambiguous and in places arbitrary. It seems that there are multiple components of “communication skills” separately listed. So if we combined them together under the “communication skills’ umbrella (‘Writing’ and ‘Articulation’ are forms of communication), then the chasm between Communication Skills and the next item on the demand list widens further.
+
+
+Communication Skills: We’re strong!
+Problem Solving: Arguably, all programming requires problem solving: We’re strong!
+Organisational Skils: Not many of our listed jobs explicitly involve organisational skills…?
+Writing: Preparing reports is listed for a few of our listed jobs.
+Team Work / Collaboration: ~Half of us have mentioned this
+TroubleShooting: Is this not a subset of problem solving?
+Planning: 
+
+
+
+Top Job Title Demand
+
+In demand:
+
+Ben - Solutions Architect
+Andrew (and John?) - Graphics Designer
+.NET Developer
+
+Not as in demand:
+Web devs, UX designers (John/Andrew)
+Full Stack developer
+
+
+
+
+Our Discussion on the results:
+
+
+
+
