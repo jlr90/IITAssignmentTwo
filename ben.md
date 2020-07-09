@@ -207,6 +207,11 @@ Summary thoughts:
 Very few of us were interested in security, networking, systems admin or testing. While some of us were interested in creative web app development, only one of the team member’s ideal jobs explicitly mentioned graphic design.  
 
 
+While it is likely there are some In-Demand skills that would be required for our ideal jobs (Microsoft Windows), these skills were not explicitly mentioned in the ideal job ads that were referred to for summarising the demand of our group, and thus were omitted. The information shown below is a strict comparison between what was outlined by the individual ideal job summaries and in the ads provided by Group7 members, and what is listed in the Burning Glass data.  
+
+With this in mind, some of the findings when presented as numerical comparisons may appear to score poorly, but Group7 trusts that it is not because the group is undesirable by Burning Glass metrics, but that our ideal jobs did not explicitly mention some of the desirable skills that would be presumed to be required for the job.
+
+
 IT Skills:
 
 Interesting things of note:
@@ -253,7 +258,7 @@ Web devs, UX designers (John/Andrew)
 Full Stack developer
 
 
-
+**Updated: 9/7/2020, 9:43pm: 
 Strong progress toward calculating how 'in demand' our group members are in relation to the 2018 burning glass data:
 https://docs.google.com/spreadsheets/d/1kp_ULdh33dknpYG2k-D9nKL1Xb3Jzg3FQZM_eo4GbQA/edit?usp=sharing
 
