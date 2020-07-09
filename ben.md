@@ -2,22 +2,6 @@ Copy+Paste for Progress Update on Ideal Jobs:
 
 DRAFT: Ideal Jobs Description and similarities:
 
-Hi Team!
-To get started, please click on Name > Bookmark to go to the summary, have a quick read through, and update it or change it if you feel I’ve missed something or misunderstood something.  
-
-At the end of the summary of each job, I’ve left a “Themes of Comparison” list - Don’t worry about what’s in there at the moment, I’m going to use that information to make a pretty graph.
-
-I COULD USE YOUR INSIGHT: I’ve never tried making a graph before. Could you please check out the radar graph used in the Summary/Comparison page, and let me know if it’s good or if it’s rubbish? If you have suggestions on how to display that information in a clearer manner, I would love to hear them. :)
-
-I’ll check back in a week to finalise everything and of course, will delete this cover page for submission.
-
-Helen
-Andrew
-Sam
-John
-Ben
-Chris
-Summary/Comparison
 Helen’s ideal job: Developer/Programmer
 
 Appeals of the job: 
