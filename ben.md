@@ -254,6 +254,11 @@ Full Stack developer
 
 
 
+Strong progress toward calculating how 'in demand' our group members are in relation to the 2018 burning glass data:
+https://docs.google.com/spreadsheets/d/1kp_ULdh33dknpYG2k-D9nKL1Xb3Jzg3FQZM_eo4GbQA/edit?usp=sharing
+
+Not yet complete but a great foundation to work from over the next day or so.
+
 
 Our Discussion on the results:
 
