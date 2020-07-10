@@ -1,0 +1,19 @@
+.hero {
+  height: 95vh;
+  width: 100%;
+  background-color: #8db9ca;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero__title {}
+
+.hero__title--main {
+  color: #fff;
+}
+
+/* Utilities */
+.u-flex-row-reverse {
+  flex-direction: row-reverse;
+}
