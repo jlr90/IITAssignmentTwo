@@ -1,7 +1,29 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+  box-shadow: 2px 2px 4px #55555599;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav {
+    width: 100%;
+    justify-content: space-around;
+  }
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+
 .hero {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.2) 100%), url("img/bg-placeholder.jpeg");
+  background-position: center;
+  background-size: cover;
   height: 95vh;
   width: 100%;
-  background-color: #8db9ca;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13,7 +35,64 @@
   color: #fff;
 }
 
+section {
+  padding: 50px 0;
+}
+
+.section-title {
+  margin-bottom: 30px;
+}
+
+.row {
+  margin-bottom: 30px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto Slab', serif;
+}
+
+.embedded-video {
+  width: 560px;
+  height: 315px;
+}
+
+/* overwrite bootstrap styles for button */
+.btn-primary {
+  background-color: #6719c4 !important;
+  border-color: #6719c4 !important;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+  background-color: #731cdb;
+  border-color: #731cdb;
+}
+
+@media (max-width: 768px) {
+  .embedded-video {
+    width: 90%;
+    height: 315px;
+  }
+}
+
 /* Utilities */
 .u-flex-row-reverse {
   flex-direction: row-reverse;
+}
+
+.u-margin-bottom-small {
+  margin-bottom: 20px;
+}
+
+.u-margin-bottom-medium {
+  margin-bottom: 40px;
+}
+
+.u-margin-bottom-large {
+  margin-bottom: 60px;
 }
