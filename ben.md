@@ -1,4 +1,6 @@
  
+ >> Work yet to be done: Need BG summary from Sam and Chris, so that I can finish summarising the section.
+ >> Need to lay it out in html style etc so it works as a website.
  
 ::: IDEAL JOBS ::: 
 
