@@ -80,6 +80,26 @@ h6 {
   }
 }
 
+.image-caption {
+  font-size: 80%;
+}
+
+footer {
+  background-color: #555;
+  color: #fff;
+  padding: 20px 0;
+}
+
+footer a {
+  color: #ddd;
+  text-decoration: underline;
+}
+
+footer a:hover,
+footer a:active {
+  color: #f8f8f8;
+}
+
 /* Utilities */
 .u-flex-row-reverse {
   flex-direction: row-reverse;

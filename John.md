@@ -48,20 +48,20 @@ For now, for the average person, we can expect to see the applications of Machin
 
 
 
-Expert System. 2020. What Is Machine Learning? A Definition. [online] Available at: <https://expertsystem.com/machine-learning-definition/> [Accessed 7 July 2020].
+Expert System. 2020. What Is Machine Learning? A Definition. [online] Available at: https://expertsystem.com/machine-learning-definition/ [Accessed 7 July 2020].
 
-Hao, K., 2018. What Is Machine Learning?. [online] MIT Technology Review. Available at: <https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/> [Accessed 7 July 2020].
+Hao, K., 2018. What Is Machine Learning?. [online] MIT Technology Review. Available at: https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/ [Accessed 7 July 2020].
 
-Foote, K., 2019. A Brief History Of Machine Learning. [online] DATAVERSITY. Available at: <https://www.dataversity.net/a-brief-history-of-machine-learning/> [Accessed 7 July 2020].
+Foote, K., 2019. A Brief History Of Machine Learning. [online] DATAVERSITY. Available at: https://www.dataversity.net/a-brief-history-of-machine-learning/ [Accessed 7 July 2020].
 
-Rose, S., 2020. What Is The Future Of Machine Learning?. [online] Codeburst.io. Available at: <https://codeburst.io/what-is-the-future-of-machine-learning-f93749833645> [Accessed 7 July 2020].
+Rose, S., 2020. What Is The Future Of Machine Learning?. [online] Codeburst.io. Available at: https://codeburst.io/what-is-the-future-of-machine-learning-f93749833645 [Accessed 7 July 2020].
 
-Neo, B., 2019. The Future Of Machine Learning. [online] towardsdatascience.com. Available at: <https://towardsdatascience.com/the-future-of-machine-learning-ce0a9dc18cb8> [Accessed 7 July 2020].
+Neo, B., 2019. The Future Of Machine Learning. [online] towardsdatascience.com. Available at: https://towardsdatascience.com/the-future-of-machine-learning-ce0a9dc18cb8 [Accessed 7 July 2020].
 
-Vardi, M., 2017. What The Industrial Revolution Really Tells Us About The Future Of Automation And Work. [online] The Conversation. Available at: <https://theconversation.com/what-the-industrial-revolution-really-tells-us-about-the-future-of-automation-and-work-82051> [Accessed 7 July 2020].
+Vardi, M., 2017. What The Industrial Revolution Really Tells Us About The Future Of Automation And Work. [online] The Conversation. Available at: https://theconversation.com/what-the-industrial-revolution-really-tells-us-about-the-future-of-automation-and-work-82051 [Accessed 7 July 2020].
 
-WIRED. 2018. AI And The Future Of Work. [online] Available at: <https://www.wired.com/wiredinsider/2018/04/ai-future-work/> [Accessed 7 July 2020].
+WIRED. 2018. AI And The Future Of Work. [online] Available at: https://www.wired.com/wiredinsider/2018/04/ai-future-work/ [Accessed 7 July 2020].
 
-Dean, J., 2019. Opening Keynote. [video] Available at: <https://www.youtube.com/watch?v=ZHoNF28Nj98> [Accessed 11 July 2020].
+Dean, J., 2019. Opening Keynote. [video] Available at: https://www.youtube.com/watch?v=ZHoNF28Nj98 [Accessed 11 July 2020].
 
-Thejournalofmhealth.com. 2019. Early Detection Of Skin Cancer: Artificial Intelligence Can Help To Save Lives. [online] Available at: <https://thejournalofmhealth.com/early-detection-of-skin-cancer-artificial-intelligence-can-help-to-save-lives/> [Accessed 11 July 2020].
+Thejournalofmhealth.com. 2019. Early Detection Of Skin Cancer: Artificial Intelligence Can Help To Save Lives. [online] Available at: https://thejournalofmhealth.com/early-detection-of-skin-cancer-artificial-intelligence-can-help-to-save-lives/ [Accessed 11 July 2020].
