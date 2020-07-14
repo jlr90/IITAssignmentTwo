@@ -280,5 +280,42 @@ Further to this, I believe having skills across multiple disciplines would be hi
 
 :: Chris
 
+---
 
+:: BURNING GLASS BIBLIOGRAPHY ::
+
+Guru99.com. 2020. What Is Full Stack Developer? Skills To Become A Web Developer. [online] Available at: <https://www.guru99.com/full-stack-developer.html#3> [Accessed 14 July 2020].
+
+2018. Top Burning Glass Occupations (BGTOCCS). [pdf] Burning Glass Technologies, p.1. Available at: <https://rmit.instructure.com/courses/70742/assignments/444710> [Accessed 7 July 2020].
+
+2018. Top Titles. [pdf] Burning Glass Technologies, p.1. Available at: <https://rmit.instructure.com/courses/70742/assignments/444710> [Accessed 7 July 2020].
+
+2018. Skills in Greatest Demand (Baseline Skills). [pdf] Burning Glass Technologies, p.1. Available at: <https://rmit.instructure.com/courses/70742/assignments/444710> [Accessed 7 July 2020].
+
+2018. Skills in Greatest Demand (Specialised Skills). [pdf] Burning Glass Technologies, p.1. Available at: <https://rmit.instructure.com/courses/70742/assignments/444710> [Accessed 7 July 2020].
+
+Costa, R., 2020. 10 Must Have Skills For UX Designers. [online] Justinmind.com. Available at: <https://www.justinmind.com/blog/10-must-have-skills-for-ux-designers/> [Accessed 14 July 2020].
+
+Hankinson, C., 2020. How To Become A System Architect - IT-Ology. [online] IT-oLogy. Available at: <https://www.it-ology.org/2016/06/14/how-to-become-a-system-architect/> [Accessed 14 July 2020].
+
+Pearson, S., 2020. 5 Best Organizational Structure Examples (For Any Business) - Tallyfy. [online] Tallyfy. Available at: <https://tallyfy.com/organizational-structure-examples/> [Accessed 14 July 2020].
+
+Brooks, A., 2019. Computer Programmer Vs. Software Developer: Decoding The Differences. [online] Rasmussen.edu. Available at: <https://www.rasmussen.edu/degrees/technology/blog/computer-programmer-vs-software-developer/> [Accessed 14 July 2020].
+
+Lexico Dictionaries | English. 2020. Articulate | Definition Of Articulate By Oxford Dictionary On Lexico.Com Also Meaning Of Articulate. [online] Available at: <https://www.lexico.com/en/definition/articulate> [Accessed 14 July 2020].
+
+
+---
+
+:: IDEAL JOBS BIBLIOGRAPHY ::
+
+Matthews, B., 2020. Intro To IT: Assignment01 | Ben Matthews S3851558. [online] Batthewz.github.io. Available at: <https://batthewz.github.io/IIT-Assignment01/> [Accessed 7 July 2020].
+
+Brissett, C., 2020. Chris Brissett. [online] Chrisbrissett.github.io. Available at: <https://chrisbrissett.github.io/Christopher-Brissett/> [Accessed 7 July 2020].
+
+Hopkins, S., 2020. Sam Hopkins. [online] Samhopkins1991.github.io. Available at: <https://samhopkins1991.github.io/introToIT/> [Accessed 7 July 2020].
+
+Moroney, A., 2020. Andrew Moroney | ABOUT. [online] Apmoroney.github.io. Available at: <https://apmoroney.github.io/> [Accessed 7 July 2020].
+
+Nowlan, H., 2020. Assignment 1: Helen Nowlan. [online] Hpnowlan.github.io. Available at: <https://hpnowlan.github.io/Helen-Nowlan-Assignment-1/> [Accessed 7 July 2020].
 
