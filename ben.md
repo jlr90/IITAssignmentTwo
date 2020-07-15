@@ -227,58 +227,53 @@ Some skills seem inevitably entwined within IT jobs even if not explicitly state
 
 In the Baseline Skills list, ‘Communication Skills’ ranked highly, and by a decent amount more than the next item on the list - ‘Communication Skills’ had nearly three times the demand than Problem Solving. (Skills in Greatest Demand (Baseline Skills), 2018) ‘Writing’ followed shortly behind at rank #4.  However, ‘Articulate’ ranks at a lowly #23 on the list. One might consider articulation to be synonymous with communication despite the BG data presenting the demand for ‘Articulation’ and ‘Communication Skills’ in vastly different places on the list (Articulate | Definition of Articulate by Oxford Dictionary on Lexico.com also meaning of Articulate, 2020). However, when also considering that ‘Writing’ is high up on the list near ‘Communication Skills’, this could infer that there is a stronger demand for written communication skills versus verbal communication skills. Otherwise, perhaps it is simply a matter of semantics, and the considerations of the differences between ‘Communication Skills’, ‘Writing’ and ‘Articulate’ are redundant. More research would be required for clarification.
 
-In Summary:
-
-The members <feel this> about the findings collectively.
-As a diverse group, the skills requirements for our ideal jobs is in close alignment with the top 25 in demand specialist IT and baseline skills.  
-
-
-
 ---
 
-  // Group Reflection Info - Still awaiting summary from SAM and CHRIS.
- 
+Reflections on the Data by GS Technology Members:
 
-Group Reflection on the Burning Glass Data:
+Members of GS Technologies have reflected on comparisons between their ideal jobs and associated skills sets, with the Burning Glass data.
 
-:: Ben
-The Burning Glass data could suggest that if I was solely focused on becoming a Senior Systems Architect, it could be troublesome to find work as the industry simply does not demand that position.  However, I trust that such positions will become increasingly important in time, so for now I would feel comfortable to maintain a focus on progressing toward the job title while keeping an eye on the data as it evolves over the years. As it will take me quite a few years before I have the required skill set for my ideal job, I have the opportunity to keep an eye on demand trends as I upskill.  Aiming for such a senior position, I trust that it will be a “Shoot for the moon and you’ll land amongst the stars” scenario.
+Ben:
 
-:: Helen
-Software development is still my ideal job.  Software is where I feel at home.  I understand how to read data, how to use a system to its fullest and how to push it to provide more.  Per the Top Occupations for year 2018 it is still a highly ranked occupation so I feel that this role would be beneficial.  My goal is to create the software packages within my own business so I am very dedicated to developing the skills to be able to develop and maintain software packages. 
+“The Burning Glass data could suggest that if I was solely focused on becoming a Senior Systems Architect, it could be troublesome to find work as the industry simply does not demand that position.  However, I trust that such positions will become increasingly important in time, so for now I would feel comfortable to maintain a focus on progressing toward the job title while keeping an eye on the data as it evolves over the years. As it will take me quite a few years before I have the required skill set for my ideal job, I have the opportunity to keep an eye on demand trends as I upskill.  Aiming for such a senior position, I trust that it will be a ‘shoot for the moon and you’ll land amongst the stars’ scenario.”
 
-I would suggest that Software development has dropped in ranking for the last 365 days in the Top IT jobs as there would have been a need in these higher ranked areas to make software development a viable role.  No use having software if you have no one to service it, to roll out the solution, to see the solution through its transitional stages.  I also believe that this list is ambiguous as many of these roles in one way or another form a part of software development.  Clearly the aspect I need to further investigate would be what platform of software development do I want to specialise in (eg Java, net, SQL) 
+Helen:
+
+“Software development is still my ideal job.  Software is where I feel at home.  I understand how to read data, how to use a system to its fullest and how to push it to provide more.  Per the Top Occupations for year 2018 it is still a highly ranked occupation so I feel that this role would be beneficial.  My goal is to create the software packages within my own business so I am very dedicated to developing the skills to be able to develop and maintain software packages. 
+
+I would suggest that software development has dropped in ranking for the last 365 days in the Top IT jobs as there would have been a need in these higher ranked areas to make software development a viable role.  No use having software if you have no one to service it, to roll out the solution, to see the solution through its transitional stages.  I also believe that this list is ambiguous as many of these roles in one way or another form a part of software development.  Clearly the aspect I need to further investigate would be what platform of software development do I want to specialise in (eg Java, .Net, SQL) 
 
 SQL is where my interests lie and this is top of the list of IT skills so this would also further enhance my resume if I had the ability to become very strong as a software developer using SQL and Javascript.  
 
-In regards to the Generic Skills I feel that I have a strong proven background in many of these skills which will only heighten my capabilities once I gain the necessary education to be able to develop software.  As a General Manager for many years, I have had to work at a highly effective level across all these skills.  I feel very comfortable with continuing my journey to become a Software Developer. 
+In regards to the Generic Skills I feel that I have a strong proven background in many of these skills which will only heighten my capabilities”
 
-:: Andrew
-Becoming a Senior UX/UI Designer would still be my ideal job. While the job title itself is not included in the Top 25 Most In-Demand jobs, many aspects of it are, including Front End Development, Graphic Design and UX Design.
+Andrew:
 
+“Becoming a Senior UX/UI Designer would still be my ideal job. While the job title itself is not included in the Top 25 Most In-Demand jobs, many aspects of it are, including Front End Development, Graphic Design and UX Design.
 Due to this, I would have great confidence pursuing this as a career without risking ongoing, challenging employment issues. There would be many avenues into this job, all of which interest me.
+I would also think it would be unlikely for jobs like this to decrease in demand over time as it has always been an integral job in the process of IT product development. Similarly, I also believe that in contrast, it is not a career path that is going to disappear into obscurity either. Therefore, ongoing employment would not be at risk so I would be comfortable still proceeding with working towards this career as my goal.”
+John:
 
-I would also think it would be unlikely for jobs like this to increase in demand over time as it has always been an integral job in the process of IT product development. Similarly, I also believe that in contrast, it is not a career path that is going to disappear into obscurity either. Therefore, ongoing employment would not be at risk so I would be comfortable still proceeding with working towards this career as my goal.
-
-:: John
-I enjoy working on the Front End side of things and am still aiming to secure a position as a Senior Front End Developer. However, given the results of the Burning Glass data, it seems that Front End skills alone are not as in demand as other related skills.
+“I enjoy working on the Front End side of things and am still aiming to secure a position as a Senior Front End Developer. However, given the results of the Burning Glass data, it seems that Front End skills alone are not as in demand as other related skills.
 
 A logical step from Front End Development is to also build out skills in relevant Back End technologies. SQL and Java rank highly on the list for Specialist IT skills. These can work hand-in-hand with Front End in many projects.
 
-Interpersonal and team/project management skills are also in high demand. These could be considered as necessary for the "senior" positions, as those are not explicitly listed in the Job Titles category. Given the improvement of Machine Learning and AI technologies which are finding ways to replace human developers on many technical tasks, I also believe a greater emphasis will be placed on IT professionals who can interact well with other people.
+Interpersonal and team/project management skills are also in high demand. These could be considered as necessary for the ‘senior’ positions, as those are not explicitly listed in the Job Titles category. Given the improvement of Machine Learning and AI technologies which are finding ways to replace human developers on many technical tasks, I also believe a greater emphasis will be placed on IT professionals who can interact well with other people.
 
-Moving forward I will put more effort into understanding Back End technologies, and building interpersonal and team skills in order to better align my career goals with the demand trends.
+Moving forward I will put more effort into understanding Back End technologies, and building interpersonal and team skills in order to better align my career goals with the demand trends.”
 
-:: Sam
+Sam:
 
-The nature of a full stack developer role dictates that expertise across both client and server is needed. As such, although the specific role of full stack developer may rank lowly, the individual skills required are in high demand on their own. 
+“The nature of a full stack developer role dictates that expertise across both client and server is needed. As such, although the specific role of full stack developer may rank lowly, the individual skills required are in high demand on their own. 
 
 Further to this, I believe having skills across multiple disciplines would be highly attractive to employers, as if holes appear in their workspaces, I would be able to be deployed quickly, and without the need of training up, or hiring new candidates
 
- As this is a far away goal for me, not realistically attainable for at least 2 or 3 years with constant improvement, I will continue to upskill with confidence that even if the specific role may not be in demand, the skills that make it up will be. 
+ As this is a far away goal for me, not realistically attainable for at least two or three years with constant improvement, I will continue to upskill with confidence that even if the specific role may not be in demand, the skills that make it up will be.”
 
+In Summary:
 
-:: Chris
+As a diverse group, the skills requirements for our Ideal Jobs are generally in close alignment with the top 25 in demand specialist IT and baseline skills.   Members of GS Technologies are not precious about the specific job title they have chosen, as they trust that by developing the skills required to reach their target destination, they will be readily employable in related positions that are equally fulfilling.  The Burning Glass data has been a useful source of reflection, encouraging members of GS Technologies to consider developing specific skills to better their likelihood of employment - Not just within their Ideal Job role, but in the IT industry in general.  This could be to complement the skill set required of their Ideal Job, or it could highlight the demand of a particular skill within their Ideal Job's required skill set.  This could become an important consideration when deciding upon which skills to develop first in order to become employable or in demand sooner.
+
 
 ---
 
