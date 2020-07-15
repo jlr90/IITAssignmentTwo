@@ -17,6 +17,9 @@ html {
   text-align: center;
 }
 
+p {
+text-align: justify;  
+}
 
 .hero {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.2) 100%), url("img/bg-placeholder.jpeg");
