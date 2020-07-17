@@ -2,7 +2,7 @@ Hi team! Let's put our individual reflections here. After which, someone can wri
 
 
   Ben
-Working with Group 7 has been an absolute treat. There has been a theme of helpfulness and everybody is keen to do their bit. A wide range of skillsets from the members has been hugely beneficial.  Andew and Helen jumped in early on to set up some of the things we'd need to work effectively (Discord channel for communications, Smartsheets for interactive checklists to allow for a clear overview of what needs to happen and who's assigned to the tasks). John with his experience of HTML/CSS/front end coding and github has been able to take the lead on website design, and has been assisting us with how to approach both. Sam had the time to leap straight into the assignment content.  The team overall has been very responsive and helpful where required. Everyone is keen to work together, and everyone's want to do well by the assignment and by each other has been lovely.  This is with the exception of group member Chris who was late to joining our comms channels, and who is yet to present any work that they'd put their hand up to do. When I refer to everything going well, I am refering to the interactions between Helen, John, Andrew, Sam and myself.  Because the rest of the team has been working diligently and cohesively, Chris' absence has thankfully not made a strong impact on the effectiveness of the team.
+Working with Group 7 has been an absolute treat. There has been a theme of helpfulness and everybody is keen to do their bit. A wide range of skillsets from the members has been hugely beneficial.  Andew and Helen jumped in early on to set up some of the things we'd need to work effectively (Discord channel for communications, Smartsheets for interactive checklists to allow for a clear overview of what needs to happen and who's assigned to the tasks). John with his experience of HTML/CSS/front end coding and github has been able to take the lead on website design, and has been assisting us with how to approach both. Sam had the time to leap straight into the assignment content.  The team overall has been very responsive and helpful where required. Everyone is keen to work together, and everyone's want to do well by the assignment and by each other has been lovely.  The group had initially started out with a sixth, Chris Brissett who confirmed on 17/7/20 that he would no longer be able to continue with this project.  Chris had become unresponsive during the course of the project, but eventually did get in touch to let us know that he was no longer able to continue with the task. Because the rest of the team has been working diligently and cohesively, Chris' absence has thankfully not made a strong impact on the effectiveness of the team.
 
 
   Helen
@@ -18,7 +18,5 @@ Everyone was prompt and diligent with updating files on the GitHub repository an
   Andrew
   
   Sam
-  
-  Chris
   
   Summary
