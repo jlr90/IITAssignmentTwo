@@ -1,0 +1,98 @@
+﻿Overview:
+“Finger spelling, also known as dactylology is manual representation of written letters according to manual alphabets which in turn are based on the standard alphabets” (Finger Spelling, 2020). Simply, fingerspelling is constructing words in sign language by signing each individual letter. When learning Auslan, learning to fingerspell is quite easy to do, and there are currently apps that will provide the hand postures and gestures for each letter in the English language. From there, it is easy to practice fingerspelling words to others. However, practicing interpreting fingerspelling is much harder. The goal of this project is to provide a tool that people can use to practice reading fingerspelling without the assistance of another person. 
+While much of Auslan has moved away from fingerspelling, replacing strings of individual letters with other gestures to communicate words or phrases, these gestures are often interspersed with fingerspelling for common abbreviations, niche vernacular, or specifics like names of people or companies (Schembri and Johnston, 2020). In certain situations,  it is entirely necessary to literally ‘spell it out’ for people. Currently, the resources available to assist with learning this part of the Auslan interpretation skill set are quite limited and as such, the app would be a welcome and disruptive contribution to the Auslan education space.
+Motivation:
+Auslan is a somatic language that allows people to communicate with each other visually instead of verbally. Of course, it allows communication between people suffering from hearing impairment, but it also offers many other benefits. Babies can understand somatic gestures before they can verbalise their intentions. “According to Jann Fujimoto, CCC-SLP, a certified speech-language pathologist in Wisconsin...A good time to start is when the baby is between 4 and 6 months old” (How to Teach Baby Sign Language: 25 Baby Signs to Know, 2020). If a baby is taught the sign for ‘milk’, they can communicate the request with sign long before they can request it with words. Having a somatic component to learning has been identified as a strong learning assist - even for the hearing - by associating a gesture with letters or with words, students tend to remember the material better. This is evidenced by a study which states “People proficient in sign language seem better able to remember unnameable objects than people who don't know how to sign (Neuropsychology (Vol. 21, No. 1) as cited by Learning sign language may improve memory for abstract shapes, 2020). Furthermore, certain social situations would benefit from the use of sign language, such as quiet libraries, or noisy bars and restaurants. 
+The current available methods of self-learning to interpret fingerspelling are limited or clunky, and I believe there is a far more dynamic and elegant solution waiting to happen. Currently, the means of practicing to learn fingerspelling are limited to these methods:
+Practice in the mirror
+Home-made resources on youtube etc
+Apps which contain videos of an Auslan tutor fingerspelling certain words or phrases.
+The primary limitation of method one is that the student already knows the word that they are intending to fingerspell, and so even though the student may be spending time looking at each gesture, because they have the knowledge of the word they’re intending to spell, they lose the effectiveness of being able to quickly interpret the fingerspelling of an external source. When interpreting fingerspelling from somebody else, one does not understand their intended word until it is complete. By practicing in the mirror, one already knows the intended word before it is signed, therefore, the effectiveness of learning is stifled.
+The limitation of method two is where because the available resources are few, after the material has been seen, the words being interpreted are subject to the memory of the student. Once again, the student is no longer actively interpreting, just practicing the memory of the video specifically. 
+The limitations of method 3 mirror those of the first two. The resources in the available Auslan learning apps show videos of a tutor gesturing and fingerspelling. This is great for learning things out of context (e.g. the individual words for things like “apple” or “car”) but it lacks practice videos for fingerspelling and again, an avid learner would be able to get through the fingerspelling resources quickly, and thus run out of learning materials quickly.
+The problem is that the available external resources are all videos of people performing the signs, and as such, lack a dynamic element that benefits learning once the video has been seen as little as one time. Thus, once again, the student will be no longer interpreting it, but referring to their memory.
+ 
+Description:
+
+The aim of this project, name JumpIntoAuslan, is to design an app that assists self-learners of Auslan -Australian Sign Language- to be able to better interpret fingerspelling, using a 3D model, procedural animation, and user control over the speed and starting/stopping/repeating of the animation playback. 
+The 3D model would accurately and fluidly move from any fingerspelled letter to any other fingerspelled letter. Within the app would be the option to input typed text or upload a file,  and then the program would interpret the text and output a 3d animation of a person fingerspelling the characters. It would remove the need for constant production of new videos, as users could simply upload or copy and paste various texts to achieve variation in material. Initially, the texts would consist of a backlog of non copyright books in order for the student to familiarise with the app. The app would have a slider to control the speed, and play, pause and repeat buttons. To keep the student aware of mistakes, and progress, there would be a validation input where after or as the 3d model signs, the user inputs what characters they interpret, which is then matched against the original text. Feeding the app volumes of text to interpret into fingerspelling would very quickly provide a user with countless hours of potentially randomised but relevant fingerspelling interpretation practice, and having speed sliders and presets for difficulty would allow the user to develop their speed and accuracy at a pace of their choosing. 
+ 
+The user interface and general feel of the app would be designed and prototyped using the Adobe Creative Cloud Suite. Specifically, it would be designed with Adobe XD. Adobe XD allows designers to wireframe the UI/UX in order to see how the app will look and function from the viewpoint of the end user. It “enables us to create a mock-up of the user’s journey throughout the site, create interactive menus and dropdowns, and click through from page to page” (5 Reasons to Use Adobe XD, 2020). Since this is a prototyping tool, once the design is finalised, work in C# will commence to recreate what was designed in AdobeXD. 
+The app would be made in the programming language of C#. C# can perform the function of reading each character of a text, and is also the main scripting language of the 3d modelling engine that would be used, Unity (Learning C# and coding in Unity for beginners - Unity, 2020). Using Unity would be beneficial in many ways. Importantly, the engine is free of charge and there are vast amounts of user resource material available, and strikingly, Facebook has integrated a development kit from Unity, that allows “tracking advertising campaigns and deep linking, where users were directly linked from social media posts” (Cohen and Cohen, 2020). This last point is crucial for making sure targeted ads are effective and relevant to users. C# is also capable of producing a text to speech synthesiser, which will further aid people with adequate hearing in learning to fingerspell. Also, apps for IOS, and android can run on C#. 
+Once the project is up and running, further improvements in graphics can be achieved by using ZBrush. “ZBrush is primarily a tool for sculpting high-resolution 3D models” (What is ZBrush: How It Works & What It's Used For, 2020). Although superficial, improvements being made to graphics will further increase the realism, and therefore interpretation accuracy and life like training for the user. 
+Once finished, the app would be put on the Google and Apple app stores, and when available, the information would be sent through to Deaf communities - such as AccessPlus or The Deaf Society. Marketing consultants specialising in social media would be hired in order for the product to reach the key demographic. Through their guidance and expertise, a facebook ad campaign would be mounted and running concurrently to reports and correspondence sent to relevant state, and federal education departments. The first goal of the project will be to get the app into curriculum for students, and from there expand to families of hearing impaired persons through targeted facebook ads. Further to this the development team would present the app at conferences on Deaf Education like ICED.
+Scalability of the project can be achieved by creating more libraries, in different sign languages, and aiming them at their respective countries. IE create an American Fingerspelling Sign Language library, and deploy it for use in the US. Scalability can also be achieved by adding libraries of full words - not just fingerspelling - however this will likely be last, due to the costs and time required to program and 3d model each sign. Although potential government grants may speed up this process. 
+The breakdown of progress of JumpIntoAuslan can be broken down into 5 phases. Phase 1, which has already been completed and can be found at <a href = “https://batthewz.github.io/IIT-Assignment01/”> https://batthewz.github.io/IIT-Assignment01/ </a> is a rough idea of what the project should be about, what the core functions are and who will be the target audience that will use the JumpIntoAuslan app. Phase 2, which this report aims to address, is a deeper dive into the specific technologies and tools that will be utilised to enable the project to meet its aim. Phase 3, which will come to conclusion on the 23rd August 2020, will aim to have a working mockup of the app which will be displayed in the Adobe XD program. It will also include a comprehensive and specific list of technology, and software that will be used, along with a forecast for timeframes, and specific roles that each team member will take on, to ensure the project reaches completion. Phase 3, lastly will cover risks such as competitors, which has been touched on below, cover how and when testing will be used, and also have a finalised timeframe in which the project will be complete. Phase 4 is deployment of a beta app, in which continuous user testing will be implemented, marketing strategies finalised, and bugs ironed out. Phase 5 is the completed app. JumpIntoAuslan will be available to the public, and marketing strategies executed. While ironing out any bugs that pop up, scaling up libraries will commence, and improvements of graphics, through the use of ZBrush, will start. 
+ 
+Competitors
+Currently there is one competitor in this market - available at <a href = “http://www.auslan.org.au/spell/practice.html”>http://www.auslan.org.au/spell/practice.html </a>, however it lacks many aspects that this program hopes to achieve. While Auslan.org provides a fingerspelling app, <ourgroupname> feels that it is clunky, lacks detail and finesse that could not only be aesthetically improved, but could provide a more beneficial learning experience for the user.  The Auslan.org app provides still images of the gestures for fingerspelled alphabet in succession to spell out text. This provides a basic means to practice reading static images of fingerspelling.  However, when interpreting the fingerspelling of another person in real life, there is much more visual information for the interpreter to process (the somatic transitions from one gesture to the next) that the Auslan.org app fails to provide.  Having a 3D model as proposed by <ourgroupname> also would allow to tilt the learner's visual perspective - Interpreting fingerspelling from a directly front-on experience will be significantly easier than from an angle of either side. Having a procedurally animated 3D model would allow us to provide these challenges for a richer learning experience at very little extra time cost.
+ 
+ 
+ 
+Software and Hardware Requirements for the Project:
+Personal Computer
+Android and iOS devices for testing
+SDK for Android and iOS
+Unity game engine; it is crossplatform, and will be required to animate our model
+Zbrush 
+The Adobe Suite
+Registry as an Apple Developer
+Skills and Knowledge Required:
+Coding competency in C#
+Auslan Instructor
+Animation and design skills with Unity
+ 
+Rough Projected Budget
+Item
+Projected Cost
+4 Hours of Auslan Interpreter
+$480
+iPhone for Testing
+$700
+Android Phone for Testing
+$400
+Mac Laptop for Apple Developer Registry
+$800
+Apple App Store Fee
+$99 / Year
+Google Play Store Fee
+$25
+Facebook Ads
+$400
+Marketing Consultancy
+$500
+Unity Subscription Fee
+$150 / Month
+Adobe Suite Student Subscription
+$30 / Month
+ZBrush
+$895
+
+
+
+
+TOTAL:
+$4,839*
+*This total presumes that the project will take three months to develop when taking into account monthly subscription fees.
+This total also presumes that students will be creating this project, thus no wages have been listed in the budget.
+
+
+
+
+References
+Cohen, D. and Cohen, D., 2020. How Facebook Integrated With The Unity Game Engine. [online] Adweek.com. Available at: <https://www.adweek.com/digital/unity-sdk-out-of-beta/> [Accessed 12 July 2020].
+
+Concept Art Empire. 2020. What Is Zbrush: How It Works & What It's Used For. [online] Available at: <https://conceptartempire.com/what-is-zbrush/> [Accessed 12 July 2020].
+
+https://www.apa.org. 2020. Learning Sign Language May Improve Memory For Abstract Shapes. [online] Available at: <https://www.apa.org/monitor/mar07/learning> [Accessed 12 July 2020].
+
+Imarc Digital Agency. 2020. 5 Reasons To Use Adobe XD. [online] Available at: <https://www.imarc.com/blog/5-reasons-to-use-adobe-xd> [Accessed 13 July 2020].
+
+Schembri, A. and Johnston, T., 2020. Sociolinguistic Variation In The Use Of Fingerspelling In Australian Sign Language : A Pilot Study. [online] Minerva.mq.edu.au. Available at: <http://minerva.mq.edu.au:8080/vital/access/manager/Repository/mq:4582> [Accessed 12 July 2020].
+
+Signcommunity.org.uk. 2020. Finger Spelling. [online] Available at: <https://www.signcommunity.org.uk/finger-spelling.html> [Accessed 12 July 2020].
+
+Thebump.com. 2020. How To Teach Baby Sign Language: 25 Baby Signs To Know. [online] Available at: <https://www.thebump.com/a/how-to-teach-baby-sign-language> [Accessed 12 July 2020].
+
+Unity. 2020. Learning C# And Coding In Unity For Beginners - Unity. [online] Available at: <https://unity3d.com/learning-c-sharp-in-unity-for-beginners> [Accessed 12 July 2020].
+

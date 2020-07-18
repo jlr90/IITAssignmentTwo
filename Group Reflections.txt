@@ -1,4 +1,4 @@
-Hi team! Let's put our individual reflections here. After which, someone can write a short summary. Then, we can put it into whichever html file we choose.
+﻿Hi team! Let's put our individual reflections here. After which, someone can write a short summary. Then, we can put it into whichever html file we choose.
 
 
   Ben
@@ -18,5 +18,8 @@ Everyone was prompt and diligent with updating files on the GitHub repository an
   Andrew
   
   Sam
+Being apart of group 7, or GS Technologies, has been the ideal first group assignment scenario. Everyone has pitched in what they feel is equal amounts, and open communication has been prevalent since day 1. Ben mobilisd the group in canvas as soon as it formed, Andrew formed the discord channel, helen created the smartsheet that tracked the tasks, and John managed the Github side of things. Google docs were used as a way of sharing content and enabling each member to review other members' work. There was a very democratic governance of the group. All though there was no elected leader, each decision was put forward to the group, and voted on formally through polls (set up by helen), or discussed and decided on in discord. The only thing I would change is the reviewing of each others work. I feel it was a little inefficient, as some team members assessed nearly evey other team member's work. If I had the time over again, I would implement a buddy system or something similiar where each member checks only one or two other team members' work, so the load is spread more evenly. It says something about the dynamics of this team where my only criticism is that some people worked too hard. 
+Unfortunately we had a 6th member who came in late and left just before the deadline. This didn't affect the group very much, as we had already divided almost all tasks when chris joined, and talks had been had already about the possibility of only having 5 members had been broached. Great group!
+
   
   Summary
