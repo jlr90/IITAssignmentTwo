@@ -18,7 +18,7 @@ html {
 }
 
 p {
-text-align: justify;  
+  text-align: justify;
 }
 
 .hero {
@@ -95,6 +95,14 @@ h6 {
   border-left: 2px solid #999;
   padding-left: 15px;
   margin-left: 20px;
+}
+
+td {
+  padding-right: 10px;
+}
+
+.table-total {
+  border-top: 1px solid #555;
 }
 
 footer {
