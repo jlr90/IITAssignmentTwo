@@ -22,7 +22,7 @@ p {
 }
 
 .hero {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.2) 100%), url("img/bg-placeholder.jpeg");
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.2) 100%), url("img/bg-hero.jpg");
   background-position: center;
   background-size: cover;
   height: 95vh;
@@ -36,6 +36,7 @@ p {
 
 .hero__title--main {
   color: #fff;
+  text-shadow: 2px 2px #000;
 }
 
 section {
@@ -111,6 +112,10 @@ td {
 
 .table-total {
   border-top: 1px solid #555;
+}
+
+.text-references p {
+  text-justify: left;
 }
 
 footer {
